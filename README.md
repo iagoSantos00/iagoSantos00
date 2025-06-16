@@ -1,5 +1,5 @@
 
-<h5 align="left">Olá, me chamo Iago, tenho 19 anos e atualmente estou no último semestre do curso de Desenvolvimento de Sistemas no SENAI Lauro de Freitas.<br><br>Gosto de aprender sobre tecnologia e programação, sempre buscando melhorar minhas habilidades e explorar novas soluções. Tenho conhecimento em JavaScript, Python, Java e C++, além de experiência com bancos de dados (MySQL, SQLite), desenvolvimento web e mobile (React, React Native) e back-end com Node.js.<br><br>Estou em busca da minha primeira oportunidade na área da programação, onde possa aplicar meus conhecimentos, contribuir para projetos inovadores e continuar evoluindo profissionalmente. No meu repositório, compartilho projetos e estudos que venho desenvolvendo ao longo da minha jornada.<br><br>Se quiser trocar uma ideia, fique à vontade para entrar em contato! 🚀</h5>
+<h5 align="left">Olá, me chamo Iago, tenho 19 anos e atualmente sou Desenvolvedor jr.<br><br>No meu repositório, compartilho projetos e estudos que venho desenvolvendo ao longo da minha jornada.<br><br>Se quiser trocar uma ideia, fique à vontade para entrar em contato! 🚀</h5>
 
 ###
 
