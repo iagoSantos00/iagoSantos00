@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-👨‍💻 Desenvolvedor Backend.<br><br>-📩 E-mail de contato: iago.s.dev7@gmail.com</p>
+<p align="left">-👨‍💻 Desenvolvedor jr.<br><br>-📩 E-mail de contato: iago.s.dev7@gmail.com</p>
 
 ###
 
