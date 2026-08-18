@@ -8,21 +8,24 @@
 
 ###
 
-<div align="center">
-
-<img
- src="./profile/stats.svg"
- height="150"
- alt="GitHub Stats"
-/>
-
-<img
- src="https://raw.githubusercontent.com/iagoSantos00/iagoSantos00/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
- height="150"
- alt="Most Used Languages"
-/>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="./profile/stats.svg"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/iagoSantos00/iagoSantos00/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        height="180"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -97,9 +100,11 @@
 
 <br clear="both">
 
-<img
-src="https://raw.githubusercontent.com/iagoSantos00/iagoSantos00/snake-output/snake.svg"
-alt="Snake animation"
-/>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/iagoSantos00/iagoSantos00/snake-output/snake.svg"
+    alt="Snake animation"
+  />
+</div>
 
 ###
